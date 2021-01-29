@@ -7,10 +7,12 @@
 |-----|-----|-----|-----|-----|
 |1032|[명령 프롬프트]|Java|2021-01-27|R|
 |1110|[더하기 사이클]|Java|2021-01-28|O|
+|1157|[단어 공부]|Java|2021-01-29|O|
 
 
 [명령 프롬프트]:https://www.acmicpc.net/problem/1032
 [더하기 사이클]:https://www.acmicpc.net/problem/1110
+[단어 공부]:https://www.acmicpc.net/problem/1157
 [Baekjoon Online Judge]:https://www.acmicpc.net/
 
 출처 : [Baekjoon Online Judge]
